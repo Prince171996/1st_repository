@@ -1,2 +1,2 @@
 def clean_dat(df):
-    return df
+    return df['b_branching']
